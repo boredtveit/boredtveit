@@ -1,0 +1,10 @@
+<app>
+     <id>portal123</id>
+     <name>DFC Portal</name>
+     <provider>DF Capital</provider>
+     <extensionpoint>
+          <location>GROUP_VIEW</location>
+          <label>DFC Portal</label>
+          <url>https://portal-dfc-dev-public.distributionfc.com/select/</url>
+     </extensionpoint>
+</app>
